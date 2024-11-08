@@ -12,7 +12,7 @@ while ($linha = mysqli_fetch_array($consultaFaixas)) {
     <br>
     <form method="post" action="processaFaixas.php" autocomplete="off">
         <div class="mb-3">
-            <label for="exampleInputText1" class="form-label">Artrite</label>
+            <label for="exampleInputText1" class="form-label"></label>
             <input value="<?php echo $linha['faixa1'] ?>" type="number" step="any" class="form-control" id="faixa1" name="faixa1">
         </div>
         <div class="mb-3">

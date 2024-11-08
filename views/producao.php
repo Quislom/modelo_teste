@@ -1,10 +1,13 @@
 <br>
 
 <div class="caixa">
-    <h4>Custo Tratamento</h4>
+    <h4>Gerenciamento de Custos</h4>
     <br><br>
     <div>
-        <table id="table_id" class="cell-border">
+
+        <table id="table_id" class="cell-border">     <h5>Tratamento e Acompanhamento</h5> </br>
+
+            
             <thead>
                 <tr>
                     <th>Nome</th>

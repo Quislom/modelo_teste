@@ -10,7 +10,7 @@
             <thead>
                 <tr>
                     <th>Nome</th>
-                    <th>Ações</th>
+                    <th>Informações</th>
                 </tr>
             </thead>
             <tbody>
