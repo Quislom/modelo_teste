@@ -17,7 +17,7 @@
     <!--Datatables-->
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css">
     
-     <title>Contador</title>
+     <title>Gerenciamento de Doenças</title>
 </head>
 
 <body>
@@ -27,7 +27,7 @@
             <div class="collapse" id="navbarToggleExternalContent">
                 
                 <div class="bg-dark p-4">
-                    <h5 class="text-white h4">Bela Plus <span class="text-muted">Oficina</span></h5>
+                    <h5 class="text-white h4">Gerenciamento de Doenças <span class="text-muted">Crônicas</span></h5>
                     <div>
                         <a href="?pagina=cadastros" class="linkMenu">
                             Cadastros
@@ -35,12 +35,12 @@
                     </div>
                     <div>
                         <a href="?pagina=faixas" class="linkMenu">
-                            Faixas
+                            Custos
                         </a>
                     </div>
                     <div>
                         <a href="?pagina=producao" class="linkMenu">
-                            Produção
+                            Gerenciamento
                         </a>
                     </div>
                     <div>

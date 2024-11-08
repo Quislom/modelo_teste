@@ -21,8 +21,12 @@ while ($linha = mysqli_fetch_array($consultaCadastros)) {
             <input value="<?php echo $linha['nome'] ?>" type="text" class="form-control" id="nome" name="nome" required>
         </div>
         <div class="mb-3">
-            <label for="exampleInputText1" class="form-label">Observação</label>
+            <label for="exampleInputText1" class="form-label">Tratamento</label>
             <input value="<?php echo $linha['obs'] ?>" type="text" class="form-control" id="obs" name="obs">
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputText1" class="form-label">Acompanhamento</label>
+            <input value="<?php echo $linha['acc'] ?>" type="text" class="form-control" id="acc" name="acc">
         </div>
         <br>
         <button type="submit" class="btn btn-primary">Salvar</button>

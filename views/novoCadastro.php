@@ -10,8 +10,12 @@
             <input type="text" class="form-control" id="nome" name="nome" required>
         </div>
         <div class="mb-3">
-            <label for="exampleInputText1" class="form-label">Observação</label>
+            <label for="exampleInputText1" class="form-label">Tratamento</label>
             <input type="text" class="form-control" id="obs" name="obs">
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputText1" class="form-label">Acompanhamento</label>
+            <input type="text" class="form-control" id="acc" name="acc">
         </div>
         <button type="submit" class="btn btn-primary">Cadastrar</button>
     </form>   

@@ -31,6 +31,7 @@ CREATE TABLE `cadastros` (
   `id` int(11) NOT NULL,
   `nome` varchar(256) NOT NULL,
   `obs` varchar(512) DEFAULT NULL,
+  `acc` varchar(512) DEFAULT NULL,
   `faixa1qnt` int(11) DEFAULT 0,
   `faixa1total` double(10,2) DEFAULT 0.00,
   `faixa2qnt` int(11) DEFAULT 0,

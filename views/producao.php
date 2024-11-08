@@ -1,17 +1,17 @@
 <br>
 
 <div class="caixa">
-    <h4>Producao</h4>
+    <h4>Custo Tratamento</h4>
     <br><br>
     <div>
         <table id="table_id" class="cell-border">
             <thead>
                 <tr>
                     <th>Nome</th>
-                    <th>Faixa 1</th>
-                    <th>Faixa 2</th>
-                    <th>Faixa 3</th>
-                    <th>Faixa 4</th>
+                    <th>Artrite</th>
+                    <th>Diabetes</th>
+                    <th>Hipertensão</th>
+                    <th>Asma</th>
                     <th>Total</th>
                     <th>Zerar</th>
                 </tr>
